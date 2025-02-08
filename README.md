@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @pumposh-cyber
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @pumposh-cyber  
+🚀 **Engineering Manager | Developer Tools | Open Source Advocate**  
 
-<!---
-pumposh-cyber/pumposh-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me  
+I’m passionate about building scalable **developer tools**, improving **engineering workflows**, and fostering **high-performing teams**. With a focus on **automation, DevOps, and software development best practices**, I strive to enhance the developer experience.  
+
+## 🌱 Currently Learning  
+- Advanced **cloud-native development**  
+- **AI/ML** for developer productivity  
+- **Scaling engineering teams & leadership strategies**  
+
+## 💞️ Looking to Collaborate On  
+- **Open-source developer tools**  
+- **CI/CD pipelines and automation**  
+- **API management and integrations**  
+
+## 📫 How to Reach Me  
+🔗 **GitHub:** [github.com/pumposh-cyber](https://github.com/pumposh-cyber)  
